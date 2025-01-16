@@ -8,6 +8,7 @@ environment:
 
 dependencies:
   dio: ^5.7.0
+  envied: ^1.0.1
   flutter:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -27,6 +28,7 @@ dev_dependencies:
   riverpod_generator: ^2.4.0
   build_runner: ^2.4.9
   json_serializable: ^6.8.0
+  envied_generator: ^1.0.1
 
 flutter:
   uses-material-design: true

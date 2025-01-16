@@ -8,9 +8,6 @@
             "name": "aqi_forecast",
             "request": "launch",
             "type": "dart",
-            "args": [
-                "--dart-define-from-file=api-keys.json"
-            ]
         },
         {
             "name": "aqi_forecast (profile mode)",
