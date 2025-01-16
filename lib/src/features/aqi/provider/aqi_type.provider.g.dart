@@ -1,24 +1,24 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 
-part of 'global_theme.provider.dart';
+part of 'aqi_type.provider.dart';
 
 // **************************************************************************
 // RiverpodGenerator
 // **************************************************************************
 
-String _$globalThemeHash() => r'990015389c03142b7f48e19593ad5961086a4d27';
+String _$aqiTypeHash() => r'862ae83f80e4d8f425a753c5025c936d9186c68f';
 
-/// See also [globalTheme].
-@ProviderFor(globalTheme)
-final globalThemeProvider = AutoDisposeFutureProvider<GlobalTheme>.internal(
-  globalTheme,
-  name: r'globalThemeProvider',
+/// See also [aqiType].
+@ProviderFor(aqiType)
+final aqiTypeProvider = AutoDisposeFutureProvider<AqiTypeDTO?>.internal(
+  aqiType,
+  name: r'aqiTypeProvider',
   debugGetCreateSourceHash:
-      const bool.fromEnvironment('dart.vm.product') ? null : _$globalThemeHash,
+      const bool.fromEnvironment('dart.vm.product') ? null : _$aqiTypeHash,
   dependencies: null,
   allTransitiveDependencies: null,
 );
 
-typedef GlobalThemeRef = AutoDisposeFutureProviderRef<GlobalTheme>;
+typedef AqiTypeRef = AutoDisposeFutureProviderRef<AqiTypeDTO?>;
 // ignore_for_file: type=lint
 // ignore_for_file: subtype_of_sealed_class, invalid_use_of_internal_member, invalid_use_of_visible_for_testing_member
